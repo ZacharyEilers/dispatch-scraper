@@ -16,15 +16,15 @@ module.exports.getAndParseRSSFeed = async function() {
     //res.json(result.rss.channel[0].item[0]);
 
     result.rss.channel[0].item.forEach(obj => {
-      const $ = cheerio.load(obj["content:encoded"][0]);
+      //const $ = cheerio.load(obj["content:encoded"][0]);
       const bodyParagraphs = getArticleBody(obj["content:encoded"][0]);
       articleArray.push({
-        title: obj.title,
-        link: obj.link,
-        pubDate: obj.pubDate,
-        creator: obj.creator,
-        categories: obj.categories,
-        description: obj.description,
+        title: obj.title[0],
+        pubDate: obj.pubDate[0],
+        creator: obj["dc:creator"][0],
+        categories: obj.category,
+        description: obj.description[0],
+        link: obj.link[0],
         body: bodyParagraphs
       });
     });

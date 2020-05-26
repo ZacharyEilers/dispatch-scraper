@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Dispatch</title>
+	<atom:link href="https://thedispatchonline.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thedispatchonline.net</link>
+	<description>The student news site of James Bowie High School</description>
+	<lastBuildDate>Fri, 14 Jun 2019 22:43:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>Riley Hughes award winning poet</title>
+		<link>https://thedispatchonline.net/9690/news/riley-hughes-award-winning-poet/</link>
+				<comments>https://thedispatchonline.net/9690/news/riley-hughes-award-winning-poet/#respond</comments>
+				<pubDate>Fri, 28 Jun 2019 15:36:15 +0000</pubDate>
+		<dc:creator><![CDATA[Katie Holme, Staff Reporter]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9690</guid>
+				<description><![CDATA[Creativity flows into the minds of students while creating their contest entries for the annual Vision and Voice poetry contest. This year, Bowie took the top spots in the 9th, 11th, and 12th grade categories. Junior Riley Hughes was one of the students awarded for her poem. “My poem uses eyes as a metaphor to...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">Creativity flows into the minds of students while creating their contest entries for the annual Vision and Voice poetry contest. This year, Bowie took the top spots in the 9th, 11th, and 12th grade categories. Junior Riley Hughes was one of the students awarded for her poem.</span></p>
+<p><span style="font-weight: 400;">“My poem uses eyes as a metaphor to compare how people see each other,&#8221; Hughes said. &#8220;I decided to write about it because I had an experience where the differences between two people who had so much in common was incredibly profound.”</span></p>
+<p><span style="font-weight: 400;">The entry process includes creating a piece of poetry, submitting it to Vision and Voice through a teacher or their website, and waiting for the results of judges at ACC to award titles. Hughes used many literary elements to create her piece, while finding pride in her work. </span></p>
+<p><span style="font-weight: 400;">“I think my poem qualifies for an award because I spent a lot of time making it into what I wanted it to be,&#8221; Hughes said. &#8220;My favorite part of this experience was the submission process because I had felt hopeful and proud of myself.&#8221;</span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9690/news/riley-hughes-award-winning-poet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>John Hahn moves onto the military</title>
+		<link>https://thedispatchonline.net/9688/news/john-hahn-moves-onto-the-military/</link>
+				<comments>https://thedispatchonline.net/9688/news/john-hahn-moves-onto-the-military/#respond</comments>
+				<pubDate>Thu, 27 Jun 2019 15:34:46 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Brooks, Managing Editor]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9688</guid>
+				<description><![CDATA[While students on campus are practicing their skills in order to increase their knowledge, math teacher John Hahn is temporarily trading in his textbooks for a different kind of expertise: military intelligence. Hahn was activated for operational support from Jan. 16, 2019 to June 13, 2019. Rather than deployment, which is typically a combat role...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">While students on campus are practicing their skills in order to increase their knowledge, math teacher John Hahn is temporarily trading in his textbooks for a different kind of expertise: military intelligence.</span></p>
+<p><span style="font-weight: 400;">Hahn was activated for operational support from Jan. 16, 2019 to June 13, 2019. Rather than deployment, which is typically a combat role response, activation involves soldiers coming out of reserve status onto active domestic duty, such as training or events like Hurricane Harvey.</span></p>
+<p><span style="font-weight: 400;">“As a reservist, we are in reserve status, meaning we only train two days a month and two weeks in the summertime, so that&#8217;s our minimal training time to stay proficient in our jobs,” Hahn said. “Sometimes it works out where it doesn&#8217;t line up with the summer—I would say in the 10 years it&#8217;s probably happen why [is]  it just happens to be the availability for that army course that that I was ordered to go to.”</span></p>
+<p><span style="font-weight: 400;">Hahn’s role in the National Guard is a Military Intelligence Planner.</span></p>
+<p><span style="font-weight: 400;">“As a Military Intelligence Planner, it is my job to provide my commander situational awareness through information collection for him/her to make the best decision available,” Hahn said. “For example, during analysis of any mission, the Intelligence Planner will analyze and inform the commander and staff on the operational variables for the mission’s environment: Terrain, Weather, Enemy situation, and other Civil Considerations. The larger the area of operations (land mass) the more operational variables will likely exist, demanding more planners to collect and analyze information to provide a clear ‘picture’ of the battlefield to the commander.”</span></p>
+<p><span style="font-weight: 400;">Since starting at Bowie in 2009, Hahn has been activated and deployed multiple times with length ranging from several months to over a year.</span></p>
+<p><span style="font-weight: 400;">“As a leader in the National Guard, we usually advise our subordinate soldiers to—when they know an activation or deployment is coming—communicate that to their employer, so I do the same thing,” Hahn said. “I obviously always want to give them as much reaction time as possible because I understand the moves and adjustments that are going to have to be made on both ends. For my employer, they&#8217;re either going to fill that gap temporarily with the substitute teacher, do some cross leveling amongst the permanent staff, or hire that position contingent upon my return. [It’s] not my decision to make but it is my responsibility to communicate my pending absence.”</span></p>
+<p><span style="font-weight: 400;">Along with preparing his family and employers for his leave, Hahn made sure provisions were being offered to the students he was leaving as well.</span></p>
+<p><span style="font-weight: 400;">“I think I always think about the students and how they&#8217;re impacted,” Hahn said. “There&#8217;s never a convenient time for any of this and everybody makes sacrifices, so I always think about the others that are having to adjust. I mean I think I made the decision and raised my hand to serve my country, but it&#8217;s another thing for the second and third order effects to affect other people, and so that&#8217;s kind of where my emotional investment goes. This is affecting other people&#8217;s agenda, you know, and so now friends and family are having to adjust and cover down and help out. It&#8217;s just I don&#8217;t ever want to burden other people. That&#8217;s just a part of my persona.”</span></p>
+<p><span style="font-weight: 400;">While all of Hahn’s classes were affected, the Advanced Quantitative Reasoning (AQR) classes had to alter the structure of the course due to its student-driven classroom dynamic.</span></p>
+<p><span style="font-weight: 400;">“We had to sit down and readjust and figure out how his students were still going to be successful because it&#8217;s a different type of class,” math teacher Kelly Flickinger said. “A big piece about this class is it&#8217;s not so much a skills-based class. So the purpose is not, ‘Let&#8217;s watch this person do a skill and practice this skill over and over again and then be able to show that you know this skill.’ Instead it&#8217;s, ‘You&#8217;re going to take the skills and tools that you already know and you are going to apply them in a project-based learning situation or in a presentation situation.’ There&#8217;s a lot of that questioning aspect that you just have to have a trained seasoned teacher have that we were missing without Hahn.”</span></p>
+<p><span style="font-weight: 400;">Since leaving, his classes have been taught by multiple substitute teachers who coordinate with the math department.</span></p>
+<p><span style="font-weight: 400;">“We recently got a permanent substitute who has taught math before who is very helpful although she has never taught AQR before,” senior Kaitlin Rush said. “It’s been different because AQR is such a unique class and we’ve had to teach ourselves most of it.”</span></p>
+<p><span style="font-weight: 400;">To help students adjust and learn the material, Flickinger set up FIT sessions, used Blend as a co-teacher for the classes, and occasionally split time between her other classes to explain lessons to Hahn’s AQR periods.</span></p>
+<p><span style="font-weight: 400;">“I had to change some of the ways that we would have done some of the topics and had it be a little bit more student-research-piece as opposed to students diving in and the teacher being able to question them through it and having the students do more individual-research-piece and then a whole class discussion at the end,” Flickinger said. “I had to modify a few of the statistics lessons and I told the students ahead of time and I let them know, ‘Hey this is going to look a little bit different’ but I think that it&#8217;s going to be what&#8217;s in the best interests for both kids.”</span></p>
+<p><span style="font-weight: 400;">Additionally, the curriculum for the remainder of the school year could be potentially changed regarding the material being covered.</span></p>
+<p><span style="font-weight: 400;">“We actually are having the students kind of talk about whether or not we&#8217;re going to</span> <span style="font-weight: 400;">choose to not do kind of a second piece of the statistic unit where the students go out and actually create their own survey design and observational study and instead we&#8217;re going to build in some more finance,” Flickinger said.</span> <span style="font-weight: 400;">“We&#8217;ve never not done this project but I think that being able to have that additional time for the finance project is going to allow us to hit on some more topics that we actually ran out of time for and I think students are kind of excited. We&#8217;re talking about actually tackling some student loan stuff, some home mortgage, and we&#8217;ll be able to do some extra tax stuff so that&#8217;ll be kind of cool.”</span></p>
+<p><span style="font-weight: 400;">However, these adjustments are likely temporary as Hahn is expected to return to his position at Bowie for the 2019-2020 school year, ready to ensure both of his duties are given the same quality of effort.</span></p>
+<p><span style="font-weight: 400;">“I feel confident in my craft on both ends,” Hahn said. “Just recently [during] the 2016-2017 deployment I was gone for a year and a half, and I when I came back I landed at Akins High School and picked up at the middle of the school year teaching Algebra 1 Pre-AP and academic Algebra 1 and I didn&#8217;t feel any degradation of teaching quality. I was able to step right back in in front of students that I had never met and still felt like I was able to lead quality instruction. I don&#8217;t feel like I lack confidence in my ability in the classrooms and then within my job in the guard, I feel like I’m definitely with my peers if not above my peers of my paygrade. I feel like I&#8217;m trained and prepared to answer the call.”</span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9688/news/john-hahn-moves-onto-the-military/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Mission trip to Samoa</title>
+		<link>https://thedispatchonline.net/9686/student-feature/mission-trip-to-samoa/</link>
+				<comments>https://thedispatchonline.net/9686/student-feature/mission-trip-to-samoa/#respond</comments>
+				<pubDate>Wed, 26 Jun 2019 15:32:44 +0000</pubDate>
+		<dc:creator><![CDATA[Eleanor Coulston, Online Managing Editor]]></dc:creator>
+				<category><![CDATA[Feature]]></category>
+		<category><![CDATA[Student Feature]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9686</guid>
+				<description><![CDATA[This summer, junior Jessica Merrill will be spending a three and half weeks in Samoa. This being her first humanitarian trip she will ever be taking. The 19 hour flight to the country of Samoa will be an opportunity to help the community. “I decided to go because my sister went with the same organization...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">This summer, junior Jessica Merrill will be spending a three and half weeks in Samoa. This being her first humanitarian trip she will ever be taking. The 19 hour flight to the country of Samoa will be an opportunity to help the community. </span></p>
+<p><span style="font-weight: 400;">“I decided to go because my sister went with the same organization last year and it seems like such an amazing opportunity to bless those in need,” Merrill said.  </span></p>
+<p><span style="font-weight: 400;">The two islands are about 1,000 miles long with only about 200,000 people living there, and it is still famous for its music, dance, art and people. </span></p>
+<p><span style="font-weight: 400;">“I’m most excited to meet all the beautiful people in Samoa,” Merrill said.  “I’ve watched so many travel videos of groups who have gone before me and the little kids we get to meet are adorable and I’m so excited to help their community.”</span></p>
+<p><span style="font-weight: 400;">Samoa is known for its beautiful beaches and water holes that are around the islands. </span></p>
+<p><span style="font-weight: 400;">“In Samoa we go sightseeing for about a week and we’re going snorkeling and cliff jumping and going on some really amazing hikes,” Merrill said. </span></p>
+<p><span style="font-weight: 400;">There will be many things to do in Samoa, especially when helping the community be a better place. </span></p>
+<p><span style="font-weight: 400;">“We’re staying in huts on the beach called Thales which are gorgeous and then we’re gonna be doing a lot of construction work as we build schools and hospitals and community centers,” Merrill said.  </span></p>
+<p><span style="font-weight: 400;">There are many things great about Samoa, but it’s not all picture perfect. </span></p>
+<p><span style="font-weight: 400;">“The thing I’m least excited for would probably be all the hard labor we’re doing because we’ll be laying foundations for schools and hospitals so it will be a lot of cement pouring and trench digging which can be super tiring but I’m still excited to learn all about it,” Merrill said. </span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9686/student-feature/mission-trip-to-samoa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Debate takes on UIL</title>
+		<link>https://thedispatchonline.net/9684/arts-and-entertainment/debate-takes-on-uil/</link>
+				<comments>https://thedispatchonline.net/9684/arts-and-entertainment/debate-takes-on-uil/#respond</comments>
+				<pubDate>Tue, 25 Jun 2019 15:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Caitlin Worthington, Staff Reporter]]></dc:creator>
+				<category><![CDATA[Entertainment]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9684</guid>
+				<description><![CDATA[The past couple of weekends Bowie students have traveled to compete in a number of academic UIL competitions. “Last weekend we got to attend the Jack C Hays invitational tournament,” Speech and Debate Senior Tate Weston said. “We won sweepstakes there!” In addition to Speech and Debate, the UIL calculator, science, and social study teams...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">The past couple of weekends Bowie students have traveled to compete in a number of academic UIL competitions.</span></p>
+<p><span style="font-weight: 400;">“Last weekend we got to attend the Jack C Hays invitational tournament,” Speech and Debate Senior Tate Weston said. “We won sweepstakes there!”</span></p>
+<p><span style="font-weight: 400;">In addition to Speech and Debate, the UIL calculator, science, and social study teams also competed in UIL tournaments. </span></p>
+<p><span style="font-weight: 400;">“It was a really fun experience, we got to compete at Hays High School in the invitational meet,” Govea said. </span></p>
+<p><span style="font-weight: 400;">Students can get involved by either testing into the programs, or in some cases, simply signing up. </span></p>
+<p><span style="font-weight: 400;">“Most coaches allow anyone to join, but some do require taking a practice test or class,” Govea said. “I really recommend that students look into joining an academic team.”   </span></p>
+<p><span style="font-weight: 400;">All the teams competed the best they could, and the UIL math and speech and debate teams had some success.  </span></p>
+<p><span style="font-weight: 400;">“We had five TFA state qualifiers at the speech and debate tournament, which is awesome,” Weston said. </span></p>
+<p><span style="font-weight: 400;">The new state qualifiers are Camille Zamora, Riley McCue, Alyssa Shumaker, Amy Shreeves and Tate Weston. </span></p>
+<p><span style="font-weight: 400;">“We all worked really hard to prepare for the tournament and I think the results reflected our efforts,” Weston said. </span></p>
+<p><span style="font-weight: 400;">The UIL math team placed as well. </span></p>
+<p><span style="font-weight: 400;">“The UIL math team, which is Gage Haden, Jacob Rubine, and I, finished 2nd overall in the calculator portion and 1st for the number sense portion at the Invitational Meet ,” Govea said. “We all did really good and our team chemistry played a vital role in our success.”</span></p>
+<p><span style="font-weight: 400;">Overall getting involved in academic competitions is a great alternative option for those who want to compete in a non traditional way. </span></p>
+<p><span style="font-weight: 400;">“It’s a really great way to meet others and compete against other schools if you’re not into sports,” UIL calculator team member Carolina Govea said. </span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9684/arts-and-entertainment/debate-takes-on-uil/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Disney needs to stop remaking classic movies</title>
+		<link>https://thedispatchonline.net/9681/opinions/disney-needs-to-stop-redoing-classic-movies/</link>
+				<comments>https://thedispatchonline.net/9681/opinions/disney-needs-to-stop-redoing-classic-movies/#respond</comments>
+				<pubDate>Mon, 24 Jun 2019 15:28:54 +0000</pubDate>
+		<dc:creator><![CDATA[Jocelyn Brooks, Managing Editor]]></dc:creator>
+				<category><![CDATA[Commentary]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9681</guid>
+				<description><![CDATA[I am a slightly bigger Disney nerd than your typical teenage white girl. My Disney playlist is over four hours long and not only includes the classic “Golden Age” films but also music from the TV shows, Disney Channel Original Movies, and score pieces. Like many, I grew up on Disney culture and it’s an...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">I am a slightly bigger Disney nerd than your typical teenage white girl. My Disney playlist is over four hours long and not only includes the classic “Golden Age” films but also music from the TV shows, Disney Channel Original Movies, and score pieces. Like many, I grew up on Disney culture and it’s an important part of my childhood, but recently I’ve begun to have an issue with their “new” releases.</span></p>
+<p><span style="font-weight: 400;">Enough is enough. Disney has built its name on originality and bringing to life stories that impact kids and adults alike for generations to come—no remake needed. </span></p>
+<p><span style="font-weight: 400;">It began with </span><i><span style="font-weight: 400;">The Jungle Book</span></i> <i><span style="font-weight: 400;">(1994)</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">101 Dalmatians</span></i> <i><span style="font-weight: 400;">(1996)</span></i><span style="font-weight: 400;">. As soon as the 21st century rolled out newer technology and ideas, Disney began recycling its old hits into tired live-action remakes. While some films like </span><i><span style="font-weight: 400;">Maleficent (2014)</span></i><span style="font-weight: 400;"> do include new spins on original plot devices, other films such as </span><i><span style="font-weight: 400;">Beauty and the Beast (2017)</span></i><span style="font-weight: 400;"> simply take a successful film and reproduce it with generic live-action characters and some CGI technology added in. Despite Disney’s lack of ingenuity,</span> <span style="font-weight: 400;">we keep enabling this process, leading to Disney promising live-action releases of </span><i><span style="font-weight: 400;">Dumbo</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">Aladdin</span></i><span style="font-weight: 400;">, and</span><i><span style="font-weight: 400;"> The Lion King</span></i><span style="font-weight: 400;"> in 2019 alone.</span></p>
+<p><span style="font-weight: 400;">Many bring up the alleged fact that Walt Disney himself included a request in his will for his films to “be remade every 10 years so each generation gets to enjoy them,” but there is simply </span><a href="https://www.snopes.com/fact-check/disney-remakes-ten-years/"><span style="font-weight: 400;">no logic</span></a><span style="font-weight: 400;"> behind this. First of all, consider the sheer amount of movies that have never been given a remake despite having been released decades ago, such as </span><i><span style="font-weight: 400;">Bambi (1942),</span></i> <i><span style="font-weight: 400;">Pocahontas (1995</span></i><span style="font-weight: 400;">), and many others. Additionally, the remade movies do not follow the “10 year plan” and would hypothetically have had to be remade several times over at this point in order for the claim to be credible.</span></p>
+<p><span style="font-weight: 400;">Ultimately, the reason boils down to money because rather than hoping for a new film to exceed its towering, multi-million dollar cost and make history for the company, Disney believes it can ride the coattails of previous movies such as </span><i><span style="font-weight: 400;">Aladdin (1992)</span></i><span style="font-weight: 400;">, the top grossing animated film as of 1992 and earned $504 million worldwide. In a generation of technology with a greater reliance on streamed media rather than investment in cinema tickets and physical copies of film, Disney’s high-cost movies become riskier as they must be certain they will bring viewers in. However, with successes such as </span><i><span style="font-weight: 400;">Aladdin (1992)</span></i><span style="font-weight: 400;"> beneath the company’s belt, making remakes is a less risky option and practically guarantees a market audience. </span></p>
+<p><span style="font-weight: 400;">And Disney certainly wasn’t wrong. </span><i><span style="font-weight: 400;">Beauty and the Beast (2017)</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">The Jungle Book (2016),</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">101 Dalmatians (1996)</span></i><span style="font-weight: 400;"> (to name a few) have all surpassed the original movies’ grossing incomes. But at what cost? Instead of amazing audiences of all ages with timeless hand-drawn animations and imaginative plots few could compete with, Disney is at risk of becoming dull, worn out, money-driven—a company once famous for their ability to dream that became infamous for their lack to do just that. </span></p>
+<p><span style="font-weight: 400;">These films will not leave a legacy. In 10 years, they will not have left a lasting impression on anyone besides the salaries of which they have fueled. Rather than invoke the nostalgia that remains with adults today, Disney remakes will simply be pushed to the back of the archives, waiting for a future where creativity is valued once again. </span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9681/opinions/disney-needs-to-stop-redoing-classic-movies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Prom dress fairytale</title>
+		<link>https://thedispatchonline.net/9675/student_life/9675/</link>
+				<comments>https://thedispatchonline.net/9675/student_life/9675/#respond</comments>
+				<pubDate>Thu, 20 Jun 2019 15:15:04 +0000</pubDate>
+		<dc:creator><![CDATA[Faith Lawrence, In-Depth Editor]]></dc:creator>
+				<category><![CDATA[Feature]]></category>
+		<category><![CDATA[Student Feature]]></category>
+		<category><![CDATA[Student Life]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9675</guid>
+				<description><![CDATA[High school students with jobs usually work in retail or in the restaurant business, but senior Jamie Forst spends her time getting dressed up to be in front of a camera.   On the weekends, Forst works as an ambassador for local dress shop Z Couture. Z Couture has the largest selection of couture dresses...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">High school students with jobs usually work in retail or in the restaurant business, but senior Jamie Forst spends her time getting dressed up to be in front of a camera.  </span></p>
+<p><span style="font-weight: 400;">On the weekends, Forst works as an ambassador for local dress shop Z Couture. Z Couture has the largest selection of couture dresses in Central Texas that carries designers like Sherri Hill, Jovani and more. Z Couture sells dresses for all occasions, like prom, pageants, and quinceañeras. As an ambassador, Forst models in Z Couture dresses to post on social media.</span></p>
+<p><span style="font-weight: 400;">“My favorite thing about modeling is honestly wearing the dresses,” Forst said. “They’re so much fun because most of the time these dresses, I would never wear because they’re expensive dresses. When I put on a dress, I just want to take it home. There are so many dresses that I’ve put on and the ladies were like ‘This is amazing, this dress was meant for you.’ They just make you feel so good about yourself and I’m like ‘Yeah, you’re right, this dress was made for me.’” </span></p>
+<p><span style="font-weight: 400;">Z Couture posted a photo on their Instagram story asking people to apply to be an ambassador. Many people applied but only fifteen got the job. </span></p>
+<p><span style="font-weight: 400;">“I had been following Z Couture on Instagram for quite some time and one day they posted applications for the ambassadorship,” Z Couture ambassador Hayley Fitz said. “I applied promptly and was chosen for the position several weeks later. As an ambassador, I am responsible for posting photos of myself wearing dresses from Z Couture. I post on all platforms of social media, spreading the word on Z Couture as the #1 formal retailer in central Texas. I attend photo shoots and represent their brand whole heartedly.”</span></p>
+<p><span style="font-weight: 400;">The main job of an ambassador for Z Couture is to promote the store by posting photos of themselves in Z Couture dresses to their social media and to give away discount cards to people interested in purchasing one of their dresses. </span></p>
+<p><span style="font-weight: 400;">“Being an ambassador, I have discount cards so if anyone wants to buy a prom dress; they can come talk to me and I have a discount card to give them,” Forst said. “They can go get a discount on any dresses at Z Couture. I also get a discounted prom dress. I’ve already picked my prom dress- it was one of the first dresses I tried on and they took a discount off so it was a lot cheaper than it was supposed to be.”</span></p>
+<p><span style="font-weight: 400;">Modeling for Z Couture can help students get future modeling jobs by helping build up their modeling resume and portfolio with their photos.</span></p>
+<p><span style="font-weight: 400;">“I am going to college for film acting, and modeling is totally in that industry,” Forst said. “I mean, I’m having a lot of fun with it. When I go out to California, maybe I’ll look at some modeling agents and show them my portfolio for what I’ve done with Z Couture.”</span></p>
+<p><span style="font-weight: 400;">Ambassadors are required to attend four photoshoots within the twelve weeks of the ambassador program. The ambassadors try on dresses selected for them by stylists and pose in the dress that looks best on them. They are then put into groups to take photos with based on which dresses look best together. </span></p>
+<p><span style="font-weight: 400;">“Each model is styled by us for the photoshoot depending on the location, and are coordinated depending on what other model(s) they will be posing with,” Z Couture owner Kristin Jacobs said. “We have professional photoshoots with a local senior photographer, Pamela Hults, who helps the girls feel like a natural behind the camera.”</span></p>
+<p><span style="font-weight: 400;">Forst has attended two photo shoots so far- one in Z Couture’s store front and another in Common Ford park, a lakefront park in central Austin.</span></p>
+<p><span style="font-weight: 400;">“I woke up at 6 AM and got to [Common Ford],” Forst said. “It was like 30 degrees, freezing cold, and I was literally in this spaghetti strap dress.”</span></p>
+<p><span style="font-weight: 400;">In addition to being an ambassador for Z Couture, Forst is also heavily involved in theatre and recently played Donna in Bowie’s production of “Mamma Mia.”</span></p>
+<p><span style="font-weight: 400;">“The last shoot we did was like a prom party, so there was confetti and balloons,” Forst said. “We were supposed to pretend we were at a party. Afterwards, the photographer came up to me and she was like ‘You were amazing. I really felt like you were at a party’ and I was like ‘Thank you, that’s my acting coming in.’ She started laughing and she was like ‘I could totally tell that you were an actor.’ It’s fun putting the acting aspect into the modeling.”</span></p>
+<p><span style="font-weight: 400;">Forst, along with 14 other ambassadors, was chosen by a panel of judges after submitting an application to Z Couture. Forst was chosen for her involvement in theatre and that she is enrolled in Bowie. </span></p>
+<p><span style="font-weight: 400;">“She is the sweetest and has such a positive attitude,” Jacobs said. “She lets Z Couture style her without any complaints and just rolls with all of our crazy ideas. We adore her.”</span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9675/student_life/9675/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>What is the point to endorsements?</title>
+		<link>https://thedispatchonline.net/9672/opinions/9672/</link>
+				<comments>https://thedispatchonline.net/9672/opinions/9672/#respond</comments>
+				<pubDate>Wed, 19 Jun 2019 15:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Shikha Patel, Staff Reporter]]></dc:creator>
+				<category><![CDATA[Commentary]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9672</guid>
+				<description><![CDATA[Endorsements. The question that all freshman come into the first day of school with and the question that all seniors leave graduation with. What are endorsements, and why do high schools care so much about them? Bowie requires for students to earn one endorsement or more in science, technology, engineering and mathematics, business and industry,...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p><span style="font-weight: 400;">Endorsements. The question that all freshman come into the first day of school with and the question that all seniors leave graduation with. What are endorsements, and why do high schools care so much about them? Bowie requires for students to earn one endorsement or more in science, technology, engineering and mathematics, business and industry, arts and humanities, public services or multi-disciplinary.</span></p>
+<p><span style="font-weight: 400;">To be quite honest, even though I know deep down that endorsements are not that important, I am motivated to get as many as I can by the end of high school. And as many of you know, each endorsement has specific requirements. For each endorsement you have to complete a foundation plan and general endorsement requirements. </span></p>
+<p><span style="font-weight: 400;">Endorsements is a way that high school&#8217;s can motivate their students to strive to do their best, and a brief outlook for colleges to see what students are interested in. Although I am in the STEM endorsement, I am able to take classes outsides of that field. Which is amazing because I am able to experience what I would enjoy doing the most in the future, because who really knows what they’re doing with at 15. However, the endorsements are meant for students to stay focused in that field, which can cause many students to restrain from classes they would have liked to take.</span></p>
+<p><span style="font-weight: 400;">When students graduate, they graduate with a title in the endorsements they have accomplished, now this is extremely beneficial for students who are overachievers and like to accomplish a set of requirement. However, this can be a struggle for students who find it hard to concentrate in specific classes due to their interests. This is when the multidisciplinary endorsement comes into play, the multidisciplinary endorsement allows students to experience what they like without being restricted to a set of classes. </span></p>
+<p><span style="font-weight: 400;">So, I don’t think endorsements are bad, but I still don’t know exactly what role they play. I&#8217;m glad Bowie offers endorsements because it is an opportunity to get students to experience classes that they could see themselves attending in college. Although endorsements are designed to help students experience their interests, there are many students who aren’t interested in attending college, or have other plans for college, for these students the endorsements are practically useless. </span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9672/opinions/9672/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Following the failures of fast fashion</title>
+		<link>https://thedispatchonline.net/9661/opinions/following-the-failures-of-fast-fashion/</link>
+				<comments>https://thedispatchonline.net/9661/opinions/following-the-failures-of-fast-fashion/#respond</comments>
+				<pubDate>Tue, 18 Jun 2019 14:13:01 +0000</pubDate>
+		<dc:creator><![CDATA[Maya Amador, Commentary Editor]]></dc:creator>
+				<category><![CDATA[Commentary]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9661</guid>
+				<description><![CDATA[Low prices, floral patterns, teenagers, and Instagram are the things that come to mind when stepping to a clothing store at the mall. Now, the mall does have a few other options to pass time such as, going to see a movie, grab a bite to eat, but most people&#8217;s favorite thing to do at...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><p class="p1">Low prices, floral patterns, teenagers, and Instagram are the things that come to mind when stepping to a clothing store at the mall. Now, the mall does have a few other options to pass time such as, going to see a movie, grab a bite to eat, but most people&#8217;s favorite thing to do at the mall is go shopping.</p>
+<p class="p1">Business insider found that in 2016 teens top three favorite clothing stores were Forever 21, H&amp;M, and Zara. These stores are also notoriously known as fast fashion retailers.</p>
+<p class="p1">Buying clothes every weekend might seem like a harmless activity, but the effects can be bigger than you might realize. Fast fashion is when a fashion trend is rapidly produced for mass retailers and then sold for a low price. Fast fashion has been coming more and more into the light as a result of many people taking initiative to protect the environment. Colorful commercials and tempting sales cause many people to end up with more clothes than they really don’t need; causing piles of thrown away clothes to collect at the end of year.</p>
+<p class="p1">According to the Council for Textile Recycling (CTR), 25 billion pounds of textiles are produced each year in the U.S. alone. Unfortunately, not a lot of these clothes get donated and 85 percent of textiles produced are thrown into U.S. landfills. At first, this number is shocking but when you stop and think about all the times you went shopping simply because you had nothing else to do it starts to make sense. We all are victims of this and it’s a hard habit to stop but mindless shopping is something that we will all see the effects of when it hurts our bank accounts and our planet.</p>
+<p class="p1">These clothing piles can be just as harmful to the environment as plastics. Fabric for these fast fashion companies is often dyed using carcinogenic chemicals. The dye is<span class="Apple-converted-space">  </span>often dumped into a nearby river making it toxic and harming the people that live close by.</p>
+<p class="p1">According to The World Bank, roughly 17 to 20% of industrial water pollution is owed to fabric dyes and treatments. This polluted water eventually flows into our oceans, harm<span class="Apple-converted-space">    </span>ing the wildlife that inhabits the water.</p>
+<p class="p1">The process to make these clothes isn’t any better. Fast fashion companies often try to hide the fact that most of them use slave labor to make their clothes. Yep, that&#8217;s right, adults and children work up 14 hours a day, six days a week, in unsafe conditions, to make that cute crop top you wore that one time. These workers aren’t getting paid well either most make less than we do in one day. Most of these buildings are extremely unsafe with workers being exposed to harmful chemicals and safety regulations not being kept up to code.</p>
+<p class="p1">Some may remember the Bangladesh Factory fire in 2012 that killed 112 garment workers. The fire was theorized to be caused by a short circuit on the ground level. Workers became trapped due to blocked fire escapes. You would think this situation would be looked at right away and become an opportunity to learn from mistakes, but only five months later another factory in Bangladesh collapsed. Just the day before, the building was evacuated because of cracks that began appearing in the walls of the building. The workers were told to return shortly after the evacuation. The next morning the building collapsed, killing 1,021 workers.</p>
+<p class="p1">When you look at all these horrific effects you need to ask yourself if all these clothes are really worth it. Whenever I buy from fast fashion stores, most things end up with holes after one wash. It will benefit you in the long run to buy something of higher quality. Thrifting is also great way to not only save money, but save the environment. If you are someone who is more artsy, up-cycling might be great option for cutting down on fast fashion. Up-cycling is taking old, unwanted items and making them into a completely new item.</p>
+<p class="p1">I’m not suggesting you completely stop shopping at fast fashion retailers, but that you take the time to educate yourself before shopping at these stores. Our environment is in deep trouble if we don’t take every possible action we can to save it. I highly encourage you to make better choices on your next trip to the mall.</p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9661/opinions/following-the-failures-of-fast-fashion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>New voices sparks a free speech revolution</title>
+		<link>https://thedispatchonline.net/9668/editorial/9668/</link>
+				<comments>https://thedispatchonline.net/9668/editorial/9668/#respond</comments>
+				<pubDate>Mon, 17 Jun 2019 14:30:19 +0000</pubDate>
+		<dc:creator><![CDATA[Editorial]]></dc:creator>
+				<category><![CDATA[Editorial]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9668</guid>
+				<description><![CDATA[Student journalist unite to fight for school newspapers who experience unfair censorship New voices is a movement that intends to liberate student journalists from the ruling of the supreme court case, Hazelwood v. Kuhlmeier, and restore the original ruling of Tinker vs. Des Moines. Hazelwood v. Kuhlmeier is a harsh ruling that was instituted in...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><h3 class="p1"><span class="s1"><i>Student journalist unite to fight for school newspapers who experience unfair censorship </i></span></h3>
+<p class="p1">New voices is a movement that intends to liberate student journalists from the ruling of the supreme court case, Hazelwood v. Kuhlmeier, and restore the original ruling of Tinker vs. Des Moines.</p>
+<p class="p1">Hazelwood v. Kuhlmeier is a harsh ruling that was instituted in every state that allows administration to censor school-sponsored publications if they have legitimate concerns.</p>
+<p class="p1">This discriminatory reality that was ruled in this case repealed the priors of the Tinker vs. Des Moines ruling that stated “teachers nor students shed their constitutional rights at the schoolhouse gate.” Due to the Hazelwood case, there have been many occasions in which the hardworking students of their proud publications have been censored in heinous ways, that are out of line of the administration, and did not pose any harm to their educational institutions.</p>
+<p class="p1">Since then, many students and their advisors have sparked a revolution to defend their individual rights legally in court, as well as appealing to legislative committees and recently the state senate.</p>
+<p class="p1">The Dispatch staff as well as the face of the notable movement, Prosper High School EiC Neha Madhira, have participated in hearings and the spread of awareness in order to create justice. Madhira and her staff decided to get involved in New Voices legislation after their publication was unfairly censored by their school’s administration. There is absolutely no doubt of these students passion for journalism as well as individual liberties. New Voices legislation has passed in 14 states and is pending in another half dozen. We encourage Texas to join them soon.</p>
+<p class="p1">Constitutional rights are essential when questioning the ruling of these cases, as well as future ones. The first amendment of the U.S. constitution states that congress shall create no laws to limit the freedom of speech, religion, or press which one would possess as a citizen of the United States.</p>
+<p class="p1">Because these cases can get confusing, and the polarization of politics that factor these decisions, it is essential to take a step back, and remind oneself of the fundamentals of freedoms. Censorship under educational institutions oppresses the future of our country, causing resentment towards those who keep students silent. Censorship should be seen as an injustice to what our founding fathers stood for, no matter the status of their involvement in the country.</p>
+<p class="p1">Allowing students to publish with no fear of punishment towards their creations, allows them to set boundaries, and learn how to uphold a professional publication themselves. The majority of publications find pride in the painstaking hours of work it takes to create an amazing and informative product.</p>
+<p class="p1">With the pride that radiates from students hard work on journalistic product<span class="Apple-converted-space">  </span>does not create a breeding ground for dangers that may upset the school, but one that informs the student body in order to create awareness of the community they belong to. By having truth, there is transparency and awareness, something that is vital to a community as well as a school.</p>
+<p class="p1">Many argue that because of these forms of media are funded by the public&#8217;s tax dollars, that there should be limitations set in place in order to keep these publications from getting ‘out of line’.</p>
+<p class="p1">Yes, technically these are school-based publications, but because many are not funded directly by a school district, they all should be free from censorship.</p>
+<p class="p1">Under any law, federal or state, all citizens of the US have the right to free speech and press. No matter the money one would spend in funding a school through tax dollars, it is still up to the publication to respect the rules regarding libel and slander.</p>
+<p class="p1">Yet, many student stories tend to pertain to the student body and what is current and important to them. Therefore, informing them to further educate the student body, as well as the community with student insights such as commentary pages and trend stories.</p>
+<p class="p1">By educating the community, students create their own opinions, and decisions, one that a story one would read in the newspaper cannot be directly responsible for.</p>
+<p class="p1">Information is essential to education, as well as creating awareness to hopefully create change, get involved, and in a negative situation, take charge. Nourish the future and give them these rights in order for them to uphold the importance and establishment of our constitution.</p>
+<p class="p1">It is essential to uphold individual, and equal rights, no matter the publication, institution, or the age of the creators. The future of journalism remains in students hands, the protection of the future is vital.</p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9668/editorial/9668/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>China Reflection</title>
+		<link>https://thedispatchonline.net/9704/student_life/china-reflection/</link>
+				<comments>https://thedispatchonline.net/9704/student_life/china-reflection/#respond</comments>
+				<pubDate>Fri, 14 Jun 2019 22:43:11 +0000</pubDate>
+		<dc:creator><![CDATA[Hailey Vogt]]></dc:creator>
+				<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Student Life]]></category>
+
+		<guid isPermaLink="false">https://thedispatchonline.net/?p=9704</guid>
+				<description><![CDATA[Interacting with the kids at the schools we visited was possibly the best part of the entire trip. Knowing that I took the opportunity to teach kids about a sport that I love is the best feeling. There was a 14-year-old girl at a school we visited who had been doing color guard for only...]]></description>
+								<content:encoded><![CDATA[<div class="pf-content"><div class="photowrap" data-photo-ids="9706,9707,9705,9709,9710,9712,9713,9714,9715"><div class='sfiphotowrap sfiphotowrap866377 modal-photo866377'><div id='storypageslideshow866377' style=''><div class="slideshowwrap"><img src="https://thedispatchonline.net/wp-content/uploads/2019/06/AC5042D7-1109-434E-8F0D-338112D7B921-900x600.jpeg" style="width:100%;" class="catboxphoto slideshow-photo" /><a class='modal-photo866377' href='#slideshow866377'><div class='slideshow-enlarge'><div class="fa fa-clone slideshow-icon"></div><div class='slideshow-title'>Gallery<span class='v-divider'>|</span>9 Photos</div></div></a></div><div class="captionboxmittop"><div class='photocredit'>Photo by:  Hailey Vogt</div><div class="photocaption">The Bowie world guard visits a school in China that is preparing to perform and show off their world guard skills.</div></div></div></div></div><div class="photobottom"></div><div class="clear"></div><div class='remodal remodal-story-image' data-remodal-id='modal-photo866377' data-remodal-options='hashTracking: false, closeOnConfirm: false'><button data-remodal-action="close" class="remodal-close"><span class="icon-hidden-text">Close</span></button><div class='photo-container866377'><div id="listloader" class="spinner" style="display:block;float:none;margin:45vh auto;">
+									<div class="bounce1"></div>
+									<div class="bounce2"></div>
+									<div class="bounce3"></div>
+									</div></div></div><div class="newssourcephotos" data-photoids="9706,9707,9705,9709,9710,9712,9713,9714,9715"></div><script type='text/javascript'>
+
+								var sno_slideshow_open = 'no';
+									$('html').on('wheel', function(event) {
+										var delta = {
+											y: event.originalEvent.deltaY
+										};
+													
+									if (delta.y > 20 && sno_slideshow_open == 'yes') {
+											$('button.remodal-close').trigger('click');
+											sno_slideshow_open = 'no';
+										}
+									});
+
+								$('.flexslider').animate({'opacity': 1}, { 'duration': 'slow'});
+								$('.flex-container').css('background', 'unset');
+								$(document).ready(function() {
+									$('html').on('click', 'button.remodal-close', function(){
+										sno_slideshow_open = 'no';
+									});
+									$('html').on('click', '.sfi-return-to-story', function(){
+										sno_slideshow_open = 'no';
+									});
+									$('body').keypress(function(e){
+										if(e.which == 27 || e.which == 0){
+											sno_slideshow_open = 'no';
+										}
+									});									
+									$(function(){
+										$('.modal-photo866377').click(function() {
+											var image = $(this).attr('data-image');
+											sno_slideshow_open = 'yes';
+											var inst = $('[data-remodal-id=modal-photo866377]').remodal();
+											var photoids = '9706,9707,9705,9709,9710,9712,9713,9714,9715';
+											var unique = '866377';
+											var storyid = '9704';
+											inst.open();
+											
+											$.ajax({
+												url:'/wp-admin/admin-ajax.php',
+												type:'POST',
+												data:'action=getslideshow&photoids=' + photoids + '&unique=' + unique + '&storyid=' + storyid + '&image=' + image,
+												success:function(results)
+													{ $('.photo-container866377').replaceWith(results); }
+	           								});
+										});
+									});
+									$('.sfiphotowrap866377').hover(function(){
+										$('.slideshow-enlarge').css('background', '#990000');
+									}, function(){
+										$('.slideshow-enlarge').css('background', '#000');
+									})
+								});
+						</script>
+<p><span style="font-weight: 400;">Interacting with the kids at the schools we visited was possibly the best part of the entire trip. Knowing that I took the opportunity to teach kids about a sport that I love is the best feeling. There was a 14-year-old girl at a school we visited who had been doing color guard for only a few months, and she took everything that I was teaching her in stride. I ended up teaching her 4 or 5 different flag tosses and she was able to match everything that I did. Colorguard had been introduced about 6 months ago by WGI, Winter Guard International, the organization that runs the winter guard competitions, so none of the kids that I interacted with had been doing it for long. It was amazing to see how much those kids chose to work at something. We visited 4 schools and each student that I interacted with was unique. The schools were at different levels of learning and exposure to the sport, so we were able to teach technique and tricks for different levels of the sport.</span></p>
+<p><span style="font-weight: 400;">Visiting all of the historic places in China, particularly the Great Wall, was an awe-inspiring experience. Visiting the Great Wall, one of the Great Wonders of the World, helped me to see the world from a different perspective. Having the opportunity to see and take in all of the history and beauty was something that I thought I would never do in my life. Seeing how Chinese history helped to shape world history was truly an educating experience. Our tour guide and translator, Grace, made sure that everyone got the experience of a lifetime while under her care. </span></p>
+<p><span style="font-weight: 400;">Overall, going on this trip to Beijing, China with the color guard was a life-changing experience for me. The team was the only team from the United States who was invited to the inaugural Beijing WGI Regional. Being a part of the color guard history in China is an accomplishment that I will carry with me for the rest of my life. Seeing how the people in Beijing live and how alike it was to when I visited Washington, DC was interesting to encounter. Having the knowledge that although people across the world have a different culture and language, I now know they that lead similar daily lives that we do.  </span></p>
+</div>]]></content:encoded>
+							<wfw:commentRss>https://thedispatchonline.net/9704/student_life/china-reflection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
